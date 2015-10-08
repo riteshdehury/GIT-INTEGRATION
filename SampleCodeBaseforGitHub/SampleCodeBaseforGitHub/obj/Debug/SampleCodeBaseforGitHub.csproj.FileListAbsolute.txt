@@ -8,3 +8,8 @@ C:\Ritesh\Code Base\GIT HUB POC\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\
 C:\Ritesh\Code Base\GIT HUB POC\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\bin\Debug\SampleCodeBaseforGitHub.exe
 C:\Ritesh\Code Base\GIT HUB POC\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\bin\Debug\SampleCodeBaseforGitHub.pdb
 C:\Ritesh\Code Base\GIT HUB POC\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\obj\Debug\ResolveAssemblyReference.cache
+C:\Ritesh\Code Base\GIT\US1\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\obj\Debug\SampleCodeBaseforGitHub.exe
+C:\Ritesh\Code Base\GIT\US1\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\obj\Debug\SampleCodeBaseforGitHub.pdb
+C:\Ritesh\Code Base\GIT\US1\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\bin\Debug\SampleCodeBaseforGitHub.exe
+C:\Ritesh\Code Base\GIT\US1\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\bin\Debug\SampleCodeBaseforGitHub.pdb
+C:\Ritesh\Code Base\GIT\US1\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\obj\Debug\ResolveAssemblyReference.cache

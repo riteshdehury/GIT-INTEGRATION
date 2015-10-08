@@ -10,6 +10,12 @@ namespace SampleCodeBaseforGitHub
         static void Main(string[] args)
         {
             string oputput = GetValue("Hello World");
+            AddANewMethod();
+        }
+
+        private static void AddANewMethod()
+        {
+            throw new NotImplementedException();
         }
 
         public static string GetValue(string input)
@@ -21,6 +27,7 @@ namespace SampleCodeBaseforGitHub
         {
             return "OKK";
         }
+
     }
 
 
