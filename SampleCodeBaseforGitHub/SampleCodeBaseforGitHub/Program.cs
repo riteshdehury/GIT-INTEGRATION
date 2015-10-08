@@ -16,6 +16,11 @@ namespace SampleCodeBaseforGitHub
         {
             return input;
         }
+
+        public static string GoVersion()
+        {
+            return "OK";
+        }
     }
 
 
