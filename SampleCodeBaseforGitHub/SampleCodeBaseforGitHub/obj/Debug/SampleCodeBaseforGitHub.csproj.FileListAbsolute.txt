@@ -1,0 +1,5 @@
+C:\Users\ayan_debnath1\Documents\Visual Studio 2008\Projects\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ayan_debnath1\Documents\Visual Studio 2008\Projects\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\bin\Debug\SampleCodeBaseforGitHub.exe
+C:\Users\ayan_debnath1\Documents\Visual Studio 2008\Projects\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\bin\Debug\SampleCodeBaseforGitHub.pdb
+C:\Users\ayan_debnath1\Documents\Visual Studio 2008\Projects\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\obj\Debug\SampleCodeBaseforGitHub.exe
+C:\Users\ayan_debnath1\Documents\Visual Studio 2008\Projects\SampleCodeBaseforGitHub\SampleCodeBaseforGitHub\obj\Debug\SampleCodeBaseforGitHub.pdb
