@@ -9,7 +9,7 @@ namespace SampleCodeBaseforGitHub
     {
         static void Main(string[] args)
         {
-            string oputput = GetValue("Hello World");
+            string oputput = GetValue("Hello World!!!");
         }
 
         public static string GetValue(string input)
